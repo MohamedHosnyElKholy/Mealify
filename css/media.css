@@ -1,0 +1,74 @@
+@media (max-width: 639px) {
+  .sm-100 {
+    width: 100% !important;
+  }
+  .sm-50 {
+    width: 50% !important;
+  }
+  .sm-33 {
+    width: 33% !important;
+  }
+  .sm-25 {
+    width: 25% !important;
+  }
+}
+
+@media (min-width: 640px) {
+  .md-100 {
+    width: 100% !important;
+  }
+  .md-50 {
+    width: 50% !important;
+  }
+  .md-33 {
+    width: 33% !important;
+  }
+  .md-25 {
+    width: 25% !important;
+  }
+}
+
+@media (min-width: 768px) {
+  .lg-100 {
+    width: 100% !important;
+  }
+  .lg-50 {
+    width: 50% !important;
+  }
+  .lg-33 {
+    width: 33% !important;
+  }
+  .lg-25 {
+    width: 25% !important;
+  }
+}
+
+@media (min-width: 1024px) {
+  .xl-100 {
+    width: 100% !important;
+  }
+  .xl-50 {
+    width: 50% !important;
+  }
+  .xl-33 {
+    width: 33% !important;
+  }
+  .xl-25 {
+    width: 25% !important;
+  }
+}
+
+@media (min-width: 1280px) {
+  .xxl-100 {
+    width: 100% !important;
+  }
+  .xxl-50 {
+    width: 50% !important;
+  }
+  .xxl-33 {
+    width: 33% !important;
+  }
+  .xxl-25 {
+    width: 25% !important;
+  }
+}
